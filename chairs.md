@@ -7,5 +7,5 @@ Following the Operator Framework chair elections held between July 21 to August 
 * Jordan Keister (**[@grokspawn](https://github.com/grokspawn)**)
 * Attila Mészáros (**[@csviri](https://github.com/csviri)**)
 * Kevin Rizza (**[@kevinrizza](https://github.com/kevinrizza)**)
-* Christophe LAPRUN (**[@metacosm](https://github.com/metacosm)**)
+* Christophe Laprun (**[@metacosm](https://github.com/metacosm)**)
 * Tayler Geiger (**[@trgeiger](https://github.com/trgeiger)**)
